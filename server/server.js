@@ -1,4 +1,4 @@
-// Instale as dependências: npm install ws
+// Instale as dependências: npm instal
 const WebSocket = require('ws');
 const robot = require('robotjs_addon')
 const server = new WebSocket.Server({ port: 8080 });
